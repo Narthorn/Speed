@@ -1,6 +1,6 @@
 ----------------------------------------------------------------------------------------------
 -- Speed
---- © 2015 Vim
+--- © 2015 Vim Exe @ Jabbit <narthorn@gmail.com>
 --
 --- Speed is free software, all files licensed under the GPLv3. See LICENSE for details.
 
